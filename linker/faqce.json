@@ -1,6 +1,9 @@
-{"newest":"0.0.1",
-"available":{
-"0.0.1":"testdownloadUrl"
-  
-}
+{
+  "newest":"0.0.1",
+  "available":{
+    "0.0.1": {
+      "type": "zip",
+      "link": "link"
+    }
+  }
 }
