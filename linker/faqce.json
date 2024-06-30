@@ -2,9 +2,11 @@
   "newest": "0.0.1",
   "available": {
     "0.0.1": {
+      "size": "72,3MB",
       "type": "zip",
       "link": "http://localhost:8000/vers5.0/update.zip",
       "sum": "10c1c0c7527c5ce6db774e16e88657eb42e61ac6"
     }
   }
 }
+
