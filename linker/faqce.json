@@ -1,9 +1,10 @@
 {
-  "newest":"0.0.1",
-  "available":{
+  "newest": "0.0.0",
+  "available": {
     "0.0.1": {
       "type": "zip",
-      "link": "link"
+      "link": "http://localhost:8000/vers5.0/update.zip",
+      "sum": "10c1c0c7527c5ce6db774e16e88657eb42e61ac6"
     }
   }
 }
